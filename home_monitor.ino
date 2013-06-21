@@ -2,6 +2,7 @@
 Arduino Based Home Security Monitor
 Author - Gtr_Stitch
 June 20, 2013
+NOTE - This sketch assumes you have the latest DS1307 Library installed.
 --------------------------------*/
 
 #include <LiquidCrystal.h>
